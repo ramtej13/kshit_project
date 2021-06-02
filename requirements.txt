@@ -70,7 +70,7 @@ tflearn==0.3.2
 tqdm==4.46.1
 Twisted==20.3.0
 txaio==20.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==0.16.0
 wrapt==1.11.2
 zope.interface==5.1.0
